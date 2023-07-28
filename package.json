@@ -14,7 +14,7 @@
     "loading animation",
     "animation"
   ],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "bugs": "https://github.com/javadbat/jb-loading-react/issues",
   "license": "MIT",
   "files": [
@@ -24,6 +24,7 @@
     "dist/"
   ],
   "main": "index.js",
+  "types": "./dist/JBLoading.d.ts",
   "repository": {
 		"type": "git",
 		"url": "git@github.com:javadbat/jb-loading-react.git"

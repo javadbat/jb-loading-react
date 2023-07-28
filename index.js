@@ -1,1 +1,1 @@
-export {JBLoading,JBLoadingProps} from './dist/JBLoading';
+export {JBLoading} from './dist/JBLoading.js';
