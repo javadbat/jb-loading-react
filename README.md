@@ -1,4 +1,7 @@
-# jb-loading-react
+# jb-loading React component
+
+> [!WARNING]  
+> this package is deprecated and moved to [jb-loading/react](https://github.com/javadbat/jb-loading/tree/main/react)
 
 svg loading React component:
 
